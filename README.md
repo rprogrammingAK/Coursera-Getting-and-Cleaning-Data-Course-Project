@@ -2,7 +2,7 @@
 
 This repository consists of the course project for Getting and Cleaning Data.
 
-1: run_analysis.R
+Part 1: run_analysis.R
 This screept does the folloring:
   
 a. Reads the data
@@ -10,6 +10,6 @@ b. Merges the test and training data sets
 d. Extact only the mean & standard deviation for each measurement
 c. provides a second data set with the average of each variable
 
-2. CodeBook.md contains the description of the work performed.
+Part 2. CodeBook.md contains the description of the work performed.
 
-3. 'README.md' provides an overview of each part of the project.
+Part 3. 'README.md' provides an overview of each part of the project.
