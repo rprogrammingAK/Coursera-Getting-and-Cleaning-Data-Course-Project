@@ -8,7 +8,7 @@ Xtest <- read.table("./UCI HAR Dataset/test/X_test.txt")
 Ytest <- read.table("./UCI HAR Dataset/test/y_test.txt")
 subjectTest <- read.table("./UCI HAR Dataset/test/subject_test.txt")
 
-## Naming the columns and merging the data
+## Naming the columns,merging the data, extacting the mean & standard deviation
 colnames(Xtrain) <- features[,2] 
 colnames(Xtest) <- features[,2] 
 colnames(Ytest) <- "activity"
