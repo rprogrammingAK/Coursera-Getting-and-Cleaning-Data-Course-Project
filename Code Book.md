@@ -8,8 +8,8 @@ This codebook describes the labels and codes using in this project.
 
 Variables:
 
-mean- mean value
-std- standard deviation
+- mean- mean value
+- std- standard deviation
 
 Measurements:
 
