@@ -1,8 +1,10 @@
 This codebook describes the labels and codes using in this project.
 
+Identifiers
+
 activityL- activity label
 activity- The type of activity
-subject- The ID
+subject- The ID of the subject
 
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
