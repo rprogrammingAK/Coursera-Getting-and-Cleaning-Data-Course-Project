@@ -5,7 +5,7 @@ Identifiers:
 activityL- activity label
 activity- The type of activity
 subject- The ID of the subject
-
+				
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z 
