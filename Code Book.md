@@ -6,6 +6,11 @@ This codebook describes the labels and codes using in this project.
 - activity- The type of activity
 - subject- The ID of the subject
 
+Variables:
+
+mean- mean value
+std- standard deviation
+
 Measurements:
 
 - tBodyAcc-mean()-X
