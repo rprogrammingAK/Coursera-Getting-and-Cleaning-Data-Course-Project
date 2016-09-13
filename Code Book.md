@@ -5,7 +5,9 @@ This codebook describes the labels and codes using in this project.
 - activityL- activity label
 - activity- The type of activity
 - subject- The ID of the subject
--
+
+Measurements:
+
 - tBodyAcc-mean()-X
 - tBodyAcc-mean()-Y
 - tBodyAcc-mean()-Z 
