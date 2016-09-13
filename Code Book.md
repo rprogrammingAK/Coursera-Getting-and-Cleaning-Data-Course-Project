@@ -1,6 +1,6 @@
 This codebook describes the labels and codes using in this project.
 
-Identifiers:
+ Identifiers:
 
 activityL- activity label
 activity- The type of activity
