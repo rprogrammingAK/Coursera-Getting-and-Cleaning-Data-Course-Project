@@ -2,7 +2,7 @@
 
 This repository consists of the course project for Getting and Cleaning Data.
 
-Summary:
+                        Summary:
 
 Part 1: run_analysis.R
 This screept does the folloring:
